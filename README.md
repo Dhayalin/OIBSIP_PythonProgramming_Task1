@@ -31,15 +31,14 @@ This project was built to learn and implement concepts such as speech recognitio
 
 ## Project Structure
 
-VoiceMate/
-│
-├── main.py
-├── gui.py
-├── voice.py
-├── commands.py
-├── utils.py
-├── requirements.txt
-└── README.md
+OIBSIP_PythonProgramming_Task1/
+ main.py
+ gui.py
+ voice.py
+ commands.py
+ utils.py
+ requirements.txt
+ README.md
 
 File          - Purpose                                       
  
